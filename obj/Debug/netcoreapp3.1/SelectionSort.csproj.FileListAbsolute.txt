@@ -25,3 +25,16 @@ C:\Users\kokoro\Desktop\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.cspr
 C:\Users\kokoro\Desktop\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
 C:\Users\kokoro\Desktop\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
 C:\Users\kokoro\Desktop\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

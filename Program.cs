@@ -90,11 +90,21 @@ namespace ConsoleApp2
             }
 
             Console.WriteLine("下列為已排序過的List：");
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("\n");
             for (int k = 0; k < selectionSort.Count; k++)
             {
-                Console.Write(selectionSort[k]+",");
+                if (k != selectionSort.Count - 1)
+                {
+                    Console.Write(selectionSort[k] + ",");
+                }
+                else
+                {
+                    Console.Write(selectionSort[k]);
+                }
             }
             Console.WriteLine("\n");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("輸入任意建退出");
             Console.ReadKey();
         }
