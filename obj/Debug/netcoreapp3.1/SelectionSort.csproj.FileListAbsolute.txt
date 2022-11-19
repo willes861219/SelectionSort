@@ -38,3 +38,17 @@ D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.cspro
 D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
 D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
 D:\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\willis\Code\willes_Project\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.AssemblyReference.cache
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\willis\Code\willes_Project\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
